@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa83727e-d1dc-472a-9aa4-ff48f03f611d" name="默认的" comment="" />
+    <list default="true" id="aa83727e-d1dc-472a-9aa4-ff48f03f611d" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/lara_wish.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lara_wish.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/WishController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/WishController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/WishModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/WishModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a1_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a1_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a1_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a1_2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a1_3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a1_3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a2_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a2_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a2_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a2_2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a2_3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a2_3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a3_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a3_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a3_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a3_2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a3_3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a3_3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a4_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a4_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a4_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a4_2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a4_3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a4_3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a5_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a5_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a5_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a5_2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/a5_3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/a5_3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/bg_main.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/bg_main.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/baobao.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/baobao.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/haixiu.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/haixiu.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/huaxin.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/huaxin.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/jiyan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/jiyan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/ku.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/ku.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/qian.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/qian.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/taikaixin.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/taikaixin.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/touxiao.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/touxiao.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/xixi.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/xixi.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/phiz/zhuakuang.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/phiz/zhuakuang.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/send-btn.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/send-btn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/send-title.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/send-title.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/send.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/send.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Images/top.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Images/top.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/iepng.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/iepng.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery-1.7.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery-1.7.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/wish/wish.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/wish/wish.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +61,11 @@
     <session id="590661807">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="400">
               <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
@@ -72,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WishController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
+            <state relative-caret-position="725">
               <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
               <folding>
                 <element signature="e#40#64#0#PHP" expanded="true" />
@@ -102,11 +149,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/wish/wish.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="58" selection-start-line="58" selection-end-line="62" selection-end-column="20" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#form#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="314">
+              <caret line="77" column="68" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -114,7 +158,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://Z:/wish/wish/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="1875">
               <caret line="75" column="7" selection-start-line="11" selection-end-line="75" selection-end-column="7" />
             </state>
           </provider>
@@ -126,6 +170,9 @@
     <findStrings>
       <find>send</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -235,18 +282,18 @@
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="899" />
-    <option name="height" value="739" />
+    <option name="width" value="900" />
+    <option name="height" value="740" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,6 +363,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,18 +395,19 @@
       <option name="presentableId" value="Default" />
       <updated>1553244208906</updated>
       <workItem from="1553244210972" duration="2311000" />
-      <workItem from="1553249111014" duration="2406000" />
+      <workItem from="1553249111014" duration="2946000" />
+      <workItem from="1553253503719" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4717000" />
+    <option name="totallyTimeSpent" value="5328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18632708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08512064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -396,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1721">
@@ -423,27 +465,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/WishModel.php">
+    <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/wish/wish/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="75" column="7" selection-start-line="11" selection-end-line="75" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WishController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <element signature="e#40#64#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -454,6 +479,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WishController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="e#40#64#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/WishModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -461,13 +503,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://Z:/wish/wish/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="75" column="7" selection-start-line="11" selection-end-line="75" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/wish/wish.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="58" selection-start-line="58" selection-end-line="62" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#form#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="314">
+          <caret line="77" column="68" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
         </state>
       </provider>
     </entry>

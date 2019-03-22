@@ -75,7 +75,7 @@
                 success:function(msg){
                     if(msg==1){
                         alert('发布成功')
-                        location.href='/wish';
+                        location.href='http://wish.tactshan.com/wish';
                     }else{
                         alert('发布失败！请及时联系管理员！')
                     }
