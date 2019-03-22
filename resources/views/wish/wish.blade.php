@@ -74,8 +74,9 @@
                 method:'POST',
                 success:function(msg){
                     if(msg==1){
+                        window.location.reload()
                         alert('发布成功')
-                        location.href='http://wish.tactshan.com/wish';
+                        // location.href='http://wish.tactshan.com/wish';
                     }else{
                         alert('发布失败！请及时联系管理员！')
                     }
